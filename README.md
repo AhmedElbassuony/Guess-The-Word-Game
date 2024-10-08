@@ -1,2 +1,2 @@
 # Guess-The-Word-Game
-## https://github.com/AhmedElbassuony/Guess-The-Word-Game.git
+##  https://ahmedelbassuony.github.io/Guess-The-Word-Game/
